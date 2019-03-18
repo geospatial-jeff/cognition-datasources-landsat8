@@ -8,6 +8,7 @@ class Landsat8(Datasource):
 
     stac_compliant = True
     tags = ['EO', 'MS', 'Satellite', 'Raster']
+    ci_token = "a96e726b2aaa42c34e097d045b39596ddad62d4f"
 
     def __init__(self, manifest):
         super().__init__(manifest)
