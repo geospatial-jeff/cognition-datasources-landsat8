@@ -35,3 +35,5 @@ class Landsat8TestCases(tests.BaseTestCases):
                         ]
                       }
         self.temporal = ("2017-01-01", "2017-12-31")
+        self.properties = {"landsat:processing_level": {"eq": "L1TP"}}
+        self.limit = 20
