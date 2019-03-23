@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/geospatial-jeff/cognition-datasources-landsat8.svg?style=svg)](https://circleci.com/gh/geospatial-jeff/cognition-datasources-landsat8)
+
 ## Landsat8
 
 | Parameter | Status |
