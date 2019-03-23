@@ -1,4 +1,4 @@
-# from datasources import tests
+from datasources import tests
 
 import datasources
 
