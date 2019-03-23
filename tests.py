@@ -1,7 +1,13 @@
 # from datasources import tests
 
 import datasources
+
+from datasources import sources
+
+
 print(dir(datasources))
+print(dir(sources))
+
 
 # from Landsat8 import Landsat8
 #
