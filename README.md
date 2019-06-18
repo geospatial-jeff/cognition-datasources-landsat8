@@ -23,3 +23,7 @@
 | eo:row | str | '030' |
 | eo:column | str | '032' |
 | landsat:processing_level | str | 'L1TP' |
+| landsat:product_id | str | 'LC08_L1TP_032028_20190616_20190617_01_RT' |
+| landsat:scene_id | str | 'LC80320282019167LGN00' |
+| landsat:tier | str | 'RT' |
+| landsat:revision | str | '00' |
